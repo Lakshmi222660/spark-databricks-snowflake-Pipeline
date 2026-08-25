@@ -25,10 +25,10 @@ The project demonstrates how a data engineer can build a scalable pipeline that 
 
 | Source | Project File |
 |--------|--------------|
-| 📁 Parquet Dataset | [data.parquet](https://github.com/royal-eternity/spark-databricks-snowflake-pipeline/blob/main/data.parquet) |
-| 🔌 External API | [API.py](https://github.com/royal-eternity/spark-databricks-snowflake-pipeline/blob/main/API.py) |
-| ❄️ Snowflake | [Snow.py](https://github.com/royal-eternity/spark-databricks-snowflake-pipeline/blob/main/Snow.py) |
-| 🔄 Master Integration Pipeline | [Master.py](https://github.com/royal-eternity/spark-databricks-snowflake-pipeline/blob/main/Master.py) |
+| 📁 Parquet Dataset | [data.parquet]https://github.com/Lakshmi222660/spark-databricks-snowflake-Pipeline/blob/main/data.parquet |
+| 🔌 External API | [API.py]https://github.com/Lakshmi222660/spark-databricks-snowflake-Pipeline/blob/main/API.PY |
+| ❄️ Snowflake | [Snow.py]https://github.com/Lakshmi222660/spark-databricks-snowflake-Pipeline/blob/main/SNOW.PY |
+| 🔄 Master Integration Pipeline | [Master.py]https://github.com/Lakshmi222660/spark-databricks-snowflake-Pipeline/blob/main/MASTER.PY |
 
 ## Pipeline Explanation
 
